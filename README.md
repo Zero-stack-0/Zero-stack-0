@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning .Net tech
 - 👯 I’m looking to collaborate on Python,
