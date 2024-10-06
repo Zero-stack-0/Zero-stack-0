@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Shubham
 
 🚀 **Backend Developer** specializing in **C#**, **.NET**, **Blazor**, **EF Core**, **LINQ**, **SQL Server**.  
-📦 I'm also about Learning frontend technologies like **React** and **Vanilla Javascript** to build complete full-stack applications.
+📦 I'm also Learning about frontend technologies like **React** and **Vanilla Javascript** to build complete full-stack applications.
 
 ---
 
 ## 🛠️ My Tech Stack
 - **Languages**: C#, JavaScript, SQL
 - **Backend**: .NET Core, ASP.NET, Entity Framework Core
-- **Frontend**: Blazor
+- **Frontend**: Blazor, Javascript
 - **Databases**: SQL Server, SQLite
 - **Tools**: Git, Docker, Visual Studio, VS Code
 
