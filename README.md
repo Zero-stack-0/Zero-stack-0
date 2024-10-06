@@ -36,5 +36,5 @@
 ---
 
 ## 💬 Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/shubham-jangid-037559208/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/shubham-jangid-037559208/))
 - 📧 Email me at: jangidshubham234@gmail.com
