@@ -25,7 +25,7 @@
 - A React-based frontend with .NET API backend delivering real-time news updates.
 - Features: JWT Authentication, REST API, React Hooks, and more.
 
-### 🛒 Cart Management System(In-Progress)
+### 🛒 Ecommerce Management System(In-Progress)
 - An e-commerce solution with robust cart management.
 - Built with .NET for backend, repository pattern, and secure user authentication.
 
