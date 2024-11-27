@@ -21,18 +21,10 @@
 ---
 
 ## 📂 Notable Projects(In-Progress)
-### 🔥 Trending News Project
-- A React-based frontend with .NET API backend delivering real-time news updates.
-- Features: JWT Authentication, REST API, React Hooks, and more.
 
 ### 🛒 Ecommerce Management System(In-Progress)
 - An e-commerce solution with robust cart management.
 - Built with .NET for backend, repository pattern, and secure user authentication.
-
-### 🔍 Developer Logging Service (WIP)
-- A logging service that helps developers manage and track errors and exceptions in their projects.
-- Implements database-driven logging with EF Core.
-
 ---
 
 ## 💬 Let's Connect!
