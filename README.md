@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham
 
-🚀 **Backend Developer** specializing in **C#**, **.NET**, **Angular**, **EF Core**, **LINQ**, **SQL Server**.  
+🚀 **Backend Developer** specializing in **C#**, **.NET**, **Angular**, **EF Core**, **LINQ**, **SQL Server** and **MongoDB**.  
 📦 I'm also Learning about frontend technologies like **React** and **Vanilla Javascript** to build complete full-stack applications.
 
 ---
@@ -9,7 +9,7 @@
 - **Languages**: C#, JavaScript, SQL
 - **Backend**: .NET Core, ASP.NET, Entity Framework Core
 - **Frontend**: Angular, Javascript
-- **Databases**: SQL Server, SQLite
+- **Databases**: SQL Server, SQLite, MongoDB
 - **Tools**: Git, Docker, Visual Studio, VS Code
 
 ---
@@ -18,13 +18,6 @@
 - **Angular** to build dynamic, modern web applications.
 - Improving my knowledge of frontend technologies to complement my backend expertise in **.Net** and **c#**.
 
----
-
-## 📂 Notable Projects(In-Progress)
-
-### 🛒 Ecommerce Management System(In-Progress)
-- An e-commerce solution with robust cart management.
-- Built with .NET for backend, repository pattern, and secure user authentication.
 ---
 
 ## 💬 Let's Connect!
